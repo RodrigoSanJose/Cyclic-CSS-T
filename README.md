@@ -17,9 +17,15 @@ H2=numpy.load('32 4 4 C2.npy')
 
 %%SageMath
 import numpy
+
 A1=numpy.load('32 4 4 C1.npy')
+
 A2=numpy.load('32 4 4 C2.npy')
+
 H1=matrix(GF(2),A1)
+
 H2=matrix(GF(2),A2)
+
 C1=LinearCode(H1).dual_code()
+
 C2=LinearCode(H2).dual_code()
