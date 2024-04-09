@@ -3,7 +3,7 @@
 This is the repository for the codes obtained in the paper "E. Camps-Moreno, H.H. López, G.L. Matthews, D. Ruano, R. San-José, I. Soprunov. The poset of binary CSS-T quantum codes and cyclic codes. ArXiv 2312.17518 (2023)".
 DOI: https://doi.org/10.48550/arXiv.2312.17518
 
-##Files 
+## Files 
 
 The parity check matrix for C1 of the code [n,k,d] is saved in the file with name "n k d C1.txt" and "n k d C1.npy". Similarly for C2.
 
@@ -11,8 +11,8 @@ The parity check matrix for C1 of the code [n,k,d] is saved in the file with nam
 
 -The .npy files contain the parity check matrix in binary format. We provide below an example to load this matrix with Python and SageMath.
 
-###Example to load the matrices for the code [[32,4,4]]
-##Python:
+### Example to load the matrices for the code [[32,4,4]]
+## Python:
 
 import numpy
 
@@ -22,7 +22,7 @@ H2=numpy.load('32 4 4 C2.npy')
 
 %H1 and H2 are the parity check matrices of C1 and C2 in a numpy array format
 
-##SageMath
+## SageMath
 
 import numpy
 
