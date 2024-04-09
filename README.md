@@ -8,8 +8,11 @@ The .npy files contain the parity check matrix in binary format. We provide belo
 
 %%Python:
 import numpy
+
 H1=numpy.load('32 4 4 C1.npy')
+
 H2=numpy.load('32 4 4 C2.npy')
+
 %H1 and H2 are the parity check matrices of C1 and C2 in a numpy array format
 
 %%SageMath
