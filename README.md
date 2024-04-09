@@ -5,7 +5,7 @@ DOI: https://doi.org/10.48550/arXiv.2312.17518
 
 ## Files 
 
-The parity check matrix for C1 of the code [n,k,d] is saved in the file with name "n_k_d_C1.txt" and "n_k_d_C1.npy". Similarly for C2.
+The zip archive Matrices.zip contains the parity check matrix for C1 of the code [[n,k,d]], saved in the file "n_k_d_C1.txt" and "n_k_d_C1.npy". Similarly for C2.
 
 -The .txt files contain in the first line the cyclotomic sets used to construct the (extended) cyclid codes (resp. the degree for Reed-Muller codes), and the parity check matrix in plain text. For non-extended cyclic codes, we use 0 instead of n for the cyclotomic sets (with respect to the paper).
 
