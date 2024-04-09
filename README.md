@@ -5,7 +5,7 @@ DOI: https://doi.org/10.48550/arXiv.2312.17518
 
 ## Files 
 
-The zip archive Matrices.zip contains a parity check matrix for C1 of the CSS-T code [[n,k,d]], saved in the file "n_k_d_C1.txt" and "n_k_d_C1.npy". Similarly for C2.
+For a given  CSS-T code with parameters [[n,k,d]], the zip archive Matrices.zip contains a parity check matrix for C1 in the files "n_k_d_C1.txt" and "n_k_d_C1.npy". Similarly for C2.
 
 -The .txt files contain in the first line the cyclotomic sets used to construct the (extended) cyclid codes (resp. the degree for Reed-Muller codes), and the parity check matrix in plain text. For non-extended cyclic codes, we use 0 instead of n for the cyclotomic sets (with respect to the paper).
 
