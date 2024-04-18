@@ -1,0 +1,29 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  CSS-T codes derived from cyclic codes in  "The poset of
+  binary CSS-T quantum codes and cyclic codes"
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Eduardo
+    family-names: Camps-Moreno
+  - given-names: Hiram H.
+    family-names: López
+  - given-names: Gretchen L.
+    family-names: Matthews
+  - given-names: Diego
+    family-names: Ruano
+  - given-names: Rodrigo
+    family-names: San-José
+  - given-names: Ivan
+    family-names: Soprunov
+identifiers:
+  - type: doi
+    value: 10.48550/arXiv.2312.17518
+    description: ArXiv Version of the paper
+repository-code: 'https://github.com/RodrigoSanJose/Cyclic-CSS-T'
