@@ -2,7 +2,7 @@
 
 cff-version: 1.2.0
 title: >-
-  Parity check matrices for the codes in ``The poset of binary CSS-T quantum codes and cyclic codes''
+  Parity check matrices for the codes in ``An algebraic characterization of binary CSS-T codes and cyclic CSS-T codes for quantum fault tolerance''
 message: >-
   If you use this dataset, please cite it using the metadata
   from this file.
@@ -22,6 +22,6 @@ authors:
     family-names: Soprunov
 identifiers:
   - type: doi
-    value: 10.48550/arXiv.2312.17518
-    description: ArXiv Version of the paper
+    value: 10.1007/s11128-024-04427-5
+    description: Journal Version of the paper
 repository-code: 'https://github.com/RodrigoSanJose/Cyclic-CSS-T'
