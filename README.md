@@ -1,7 +1,7 @@
 # CSS-T codes from cyclic codes
 
-This is the repository for the codes obtained in the paper "E. Camps-Moreno, H.H. López, G.L. Matthews, D. Ruano, R. San-José, I. Soprunov. The poset of binary CSS-T quantum codes and cyclic codes. ArXiv 2312.17518 (2023)".
-DOI: https://doi.org/10.48550/arXiv.2312.17518
+This is the repository for the codes obtained in the paper "E. Camps-Moreno, H.H. López, G.L. Matthews, D. Ruano, R. San-José, I. Soprunov. An algebraic characterization of binary CSS-T codes and cyclic CSS-T codes for quantum fault tolerance. Quantum Inf Process 23, 230 (2024)".
+DOI: https://doi.org/10.1007/s11128-024-04427-5
 
 ## Files 
 
